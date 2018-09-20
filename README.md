@@ -1,4 +1,4 @@
-# website
+# vue-ssr-template
 
 > Nuxt.js project
 
